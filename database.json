@@ -8,38 +8,40 @@
     "stock": 10,
     "id": 1
     },
+    
     {
-    "titulo": "producto prueba2",
-    "descripcion": "Este es un producto prueba2",
-    "precio": 200,
-    "imagen": "Sin imagen",
-    "codigo": "bc123",
-    "stock": 25,
+    "titulo": "Chomba Polo Dama",
+    "descripcion": "Chomba Remera Polo De Pique Manga Corta Dama Empresas",
+    "precio": 8079,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_850087-MLA51666355364_092022-O.webp",
+    "codigo": "CH1002",
+    "stock": 20,
     "id": 2
     },
+    
     {
-    "titulo": "producto prueba3",
-    "descripcion": "Este es un producto prueba3",
-    "precio": 200,
+    "titulo": "Chomba Pampero Lisa Premium",
+    "descripcion": "Chomba Pampero Micropique Lisa Premium Talles S Al Xxxl",
+    "precio": 7.830,
     "imagen": "Sin imagen",
-    "codigo": "c123",
-    "stock": 25,
+    "codigo": "CH1003",
+    "stock": 15,
     "id": 3
     },
     {
-    "titulo": "producto prueba4",
-    "descripcion": "Este es un producto prueba4",
+    "titulo": "Chomba Polo Rose Mujer",
+    "descripcion": "Remera Aeropostale Chomba Polo Embrodery Rose Mujer Aero",
     "precio": 200,
-    "imagen": "Sin imagen",
-    "codigo": "123",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_634209-MLA48013843189_102021-O.webp",
+    "codigo": "CH1004",
     "stock": 25,
     "id": 4
     },
     {
-    "titulo": "producto prueba5",
-    "descripcion": "Este es un producto prueba5",
+    "titulo": "Chomba Penguin Blanca",
+    "descripcion": "Chomba Penguin Xl Blanca",
     "precio": 200,
-    "imagen": "Sin imagen",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_639787-MLA51079675439_082022-O.webp",
     "codigo": "23",
     "stock": 25,
     "id": 5
